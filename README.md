@@ -18,4 +18,6 @@
 
 - If you like this project star this repo.  
 
+Do visit my blog for better explanations: https://machinelearningprojects.net/flipkart-reviews-extraction-and-sentiment-analysis/
+
 ![](flip.gif)
